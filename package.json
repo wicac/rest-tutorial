@@ -1,0 +1,19 @@
+{
+  "name": "rest-shop-tutorial",
+  "version": "1.0.0",
+  "description": "rest-tutorial with NodeJS implementation of shop on Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wicac/rest-tutorial.git"
+  },
+  "author": "wicac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wicac/rest-tutorial/issues"
+  },
+  "homepage": "https://github.com/wicac/rest-tutorial/#readme"
+}
