@@ -16,6 +16,8 @@ COPY package.json .
 
 
 RUN npm install --save express
+RUN npm install --save-dev nodemon
+RUN npm install --save morgan
 
 ENTRYPOINT ["node"]
 CMD ["server.js"]
